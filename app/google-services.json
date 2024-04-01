@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449005957698",
+    "project_id": "doctorme-f7699",
+    "storage_bucket": "doctorme-f7699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449005957698:android:eb119d224e1ee4bc56b3db",
+        "android_client_info": {
+          "package_name": "com.example.doctorme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuaURKQJQbCYGYYXxEd30j8Cwf8mSh3vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
